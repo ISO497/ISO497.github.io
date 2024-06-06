@@ -1,0 +1,6 @@
+PWD D:/OneDrive/Projects/resume
+INPUT d:/texlive/2023/texmf.cnf
+INPUT d:/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt
+INPUT d:/OneDrive/Projects/resume/fontawesomesymbols-generic.tex
+OUTPUT fontawesomesymbols-generic.log

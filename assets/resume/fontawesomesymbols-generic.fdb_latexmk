@@ -1,0 +1,17 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "fontawesomesymbols-generic.xdv" "fontawesomesymbols-generic.pdf" "fontawesomesymbols-generic" 0 -1
+  "fontawesomesymbols-generic.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "fontawesomesymbols-generic.pdf"
+  (rewritten before read)
+["xelatex"] 1716455996 "d:/OneDrive/Projects/resume/fontawesomesymbols-generic.tex" "fontawesomesymbols-generic.xdv" "fontawesomesymbols-generic" 1716455996 2
+  "d:/OneDrive/Projects/resume/fontawesomesymbols-generic.tex" 1716389324 33965 a3a3e12d9315f667a3e24bd6b3d6058b ""
+  "d:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1710292413 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "d:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1710294388 10502578 4b5c02499e4184613f409af16cb2b0f6 ""
+  "d:/texlive/2023/texmf.cnf" 1710294245 713 e69b156964470283e0530f5060668171 ""
+  "fontawesomesymbols-generic.aux" 1716455996 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  (generated)
+  "fontawesomesymbols-generic.aux"
+  "fontawesomesymbols-generic.log"
+  "fontawesomesymbols-generic.xdv"
+  (rewritten before read)
