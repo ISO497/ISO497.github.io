@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Yansong Huang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yansong Huang"
@@ -24,9 +24,9 @@ author:
   avatar           : "YansongHuang.png"
   name             : "Yansong Huang"
   pronouns         : # example: "she/her"  
-  bio              : "A beginner in telecommunications and artificial intelligence."
+  bio              : "A beginner in Federated Learning."
   location         : "Beijing"
-  employer         : "Beijing University of Posts \n and Telecommunications"
+  employer         : "BUPT"
   uri              : # URL
   email            : "873994556@bupt.edu.cn" 
 
