@@ -4,7 +4,7 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/The Guidance of Music Influence on Music Evolution
 # venue: "University 1, Department"
-date: 'Feb. 2021'
+start_date: 'Feb. 2021'
 location: "Beijing, China"
 ---
 
