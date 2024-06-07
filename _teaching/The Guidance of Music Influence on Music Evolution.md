@@ -2,7 +2,7 @@
 title: "The Guidance of Music Influence on Music Evolution"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/The Guidance of Music Influence on Music Evolution
 # venue: "University 1, Department"
 date: 'Feb. 2021'
 location: "Beijing, China"

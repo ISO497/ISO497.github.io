@@ -2,7 +2,7 @@
 title: "Intelligent Cloud Gallery"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Intelligent Cloud Gallery
 # venue: "University 1, Department"
 date: 'Jun. 2020 -- May 2021'
 location: "Beijing, China"

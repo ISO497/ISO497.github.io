@@ -2,7 +2,7 @@
 title: "Course Projects"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Course Projects
 # venue: "University 1, Department"
 date: 'Sep. 2018 -- Jun. 2022'
 location: "Beijing, China"

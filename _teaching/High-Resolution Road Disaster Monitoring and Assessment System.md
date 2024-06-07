@@ -2,7 +2,7 @@
 title: "High-Resolution Road Disaster Monitoring and Assessment System"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/High-Resolution Road Disaster Monitoring and Assessment System
 # venue: "University 1, Department"
 date: 'Aug. 2020 -- Jun. 2021'
 location: "Beijing, China"
