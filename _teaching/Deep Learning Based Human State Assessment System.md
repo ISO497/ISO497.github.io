@@ -4,6 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/Deep Learning Based Human State Assessment System
 # venue: "University 1, Department"
+start_date: 'Oct. 2021'
+end_date: 'Present'
 date: 'Oct. 2021 -- Present'
 location: "Beijing, China"
 ---

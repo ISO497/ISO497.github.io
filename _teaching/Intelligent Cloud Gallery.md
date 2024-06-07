@@ -8,7 +8,7 @@ date: 'Jun. 2020 -- May 2021'
 location: "Beijing, China"
 ---
 
-This project created a \textbf{digital photo album} that demonstrated photos, artworks, and dynamic images to users based on current environmental conditions, date, and user preferences and \textbf{matched music to pictures}, providing users with a diverse artistic perspective. The voice assistant answered questions about artworks and enabled users to control the photo album in voice.
+This project created a **digital photo album** that demonstrated photos, artworks, and dynamic images to users based on current environmental conditions, date, and user preferences and **matched music to pictures**, providing users with a diverse artistic perspective. The voice assistant answered questions about artworks and enabled users to control the photo album in voice.
 
 * Participated in requirements analysis, system design, implementation and testing of developing the product.
 * Developed the digital photo album on Raspberry Pi.

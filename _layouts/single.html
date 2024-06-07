@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{page.date}} </p>
+          <p> {{ page.start_date | default: "1900-01-01" | start_date: "%m %Y" }} to {{ page.end_date | default: "1900-01-01" | end_date: "%m %Y" }} </p>
         {% elsif page.date == nil or page.date == empty %}
           <p>Under review.</p>
         {% elsif page.venue and page.date %}
