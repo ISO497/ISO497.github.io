@@ -40,9 +40,9 @@
 
         {% if post.collection == 'teaching' %}
           {% if post.end_date == nil or post.end_date == empty %}
-            <p> {{ post.start_date | default: "1900-01-01" | start_date: "%m %Y" }} -- {{ post.end_date | default: "1900-01-01" | end_date: "%m %Y" }} </p>
-          {% else %}
             <p> {{ post.start_date | default: "1900-01-01" | date: "%m %Y" }}</p>
+          {% else %}
+            <p> {{ post.start_date | default: "1900-01-01" | start_date: "%m %Y" }} -- {{ post.end_date | default: "1900-01-01" | end_date: "%m %Y" }} </p>
           {% endif %}
         {% elsif post.date == nil or post.date == empty %}
           <p>Under review.</p>
