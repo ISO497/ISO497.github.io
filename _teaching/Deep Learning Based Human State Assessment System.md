@@ -2,7 +2,7 @@
 title: "Deep Learning Based Human State Assessment System"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Deep Learning Based Human State Assessment System
 # venue: "University 1, Department"
 date: 'Oct. 2021 -- Present'
 location: "Beijing, China"
