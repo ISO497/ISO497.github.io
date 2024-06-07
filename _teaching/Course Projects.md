@@ -12,10 +12,11 @@ location: "Beijing, China"
 These course projects were completed in my undergraduate courses, covering various programming languages. I worked as a **designer** and **programmer** in all of them and accomplished most work.
 
 * Fitness Builder Program (Java & JavaFX)
+![Fitness Builder Program](../assets/projects/fitness.png)
 * Chinese Cuisine Website (JavaScript & CSS & HTML)
-![Chinese Cuisine Website](Chinese_Cuisine_Website.png)
+![Chinese Cuisine Website](../assets/projects/Chinese_Cuisine_Website.png)
 * FTP Server (C)
-![FTP Server](FTP_server.png)
+![FTP Server](../assets/projects/FTP_server.png)
 * Electronic Organ (C & Arduino)
-![Electronic Organ](electrionic_organ.png)
+![Electronic Organ](../assets/projects/electronic_organ.png)
 * Telephone Management System (C)

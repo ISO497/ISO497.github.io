@@ -14,3 +14,4 @@ This project created a **digital photo album** that demonstrated photos, artwork
 * Participated in requirements analysis, system design, implementation and testing of developing the product.
 * Developed the digital photo album on Raspberry Pi.
 * Developed the Android app that allowed users to control the digital photo album via their smartphones.
+![Andoird APP of Intelligent Cloud Gallery](../assets/projects/android.png)
