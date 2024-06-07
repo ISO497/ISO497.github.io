@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2022 -- Present
+  * Master student in Information and Communication Engineering, expected Jun. 2025
+  * First-class scholarship for twice
+* Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2018 -- 2022
+  * B.E. in Telecommunications Engineering with Management
+  * Outstanding Graduate
+  * Third-class scholarship for twice
+* Queen Mary University of London (QMUL), Beijing, China, 2018 -- 2022
+  * B.E. in Telecommunications Engineering with Management
+  * First Class Honours degree
+  * QM Prize
 
-Work experience
+Curriculums
 ======
-* Spring 2024: Academic Pages Collaborator
+* About Computer Vision
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* About Communications
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -40,25 +43,4 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
