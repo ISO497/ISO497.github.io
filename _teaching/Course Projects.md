@@ -4,7 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/Course Projects
 # venue: "University 1, Department"
-date: 'Sep. 2018 -- Jun. 2022'
+start_date: 'Sep. 2018'
+end_date: 'Jun. 2022'
 location: "Beijing, China"
 ---
 

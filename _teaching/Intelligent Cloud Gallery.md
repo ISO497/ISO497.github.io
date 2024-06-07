@@ -4,7 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/Intelligent Cloud Gallery
 # venue: "University 1, Department"
-date: 'Jun. 2020 -- May 2021'
+start_date: 'Jun. 2020'
+end_date: 'May 2021'
 location: "Beijing, China"
 ---
 

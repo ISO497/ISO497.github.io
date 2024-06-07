@@ -4,7 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/Large-Scale Distributed Mobile Ad-hoc Network Emulation System
 # venue: "University 1, Department"
-date: 'Mar. 2022 -- Present'
+start_date: 'Mar. 2022'
+end_date: 'Present'
 location: "Beijing, China"
 ---
 

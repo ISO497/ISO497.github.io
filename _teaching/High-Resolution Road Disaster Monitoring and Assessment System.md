@@ -4,7 +4,8 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/High-Resolution Road Disaster Monitoring and Assessment System
 # venue: "University 1, Department"
-date: 'Aug. 2020 -- Jun. 2021'
+start_date: 'Aug. 2020'
+end_date: 'Jun. 2021'
 location: "Beijing, China"
 ---
 
