@@ -2,7 +2,7 @@
 title: "Large-Scale Distributed Mobile Ad-hoc Network Emulation System"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Large-Scale Distributed Mobile Ad-hoc Network Emulation System
 # venue: "University 1, Department"
 date: 'Mar. 2022 -- Present'
 location: "Beijing, China"
