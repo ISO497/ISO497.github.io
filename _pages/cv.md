@@ -34,8 +34,9 @@ Curriculums
   * Internet Applications (92)
   * Theory of Communication Network (90)
 
-* About Computer Vision
+* About Machine Learning
   * Computer Vision (94)
+  * Airport Landside Traffic Prediction: a Deep Learning Approach (Graduation Project) (94)
   * Graph Theory and Applications (91)
 
 * About Programming Language
@@ -45,10 +46,15 @@ Curriculums
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Programming Language
+  * [Python](https://www.codewars.com/users/ISO497)
+  * Java
+  * Matlab
+  * C & C++
+  * HTML + CSS + JavaScript
+
+* Linux
+  * Docker & LXC
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
   
