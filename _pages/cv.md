@@ -25,15 +25,23 @@ Education
 
 Curriculums
 ======
-* About Computer Vision
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
 * About Communications
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Labs in Digital Signal Processing (94)
+  * Principles of Communications (93)
+  * Advanced Transform Methods (93)
+  * Electromagnetic Fields and Waves (93)
+  * Internet Protocols (92)
+  * Internet Applications (92)
+  * Theory of Communication Network (90)
+
+* About Computer Vision
+  * Computer Vision (94)
+  * Graph Theory and Applications (91)
+
+* About Programming Language
+  * Java Programming (92)
+  * C Programming (92)
+  * Interactive Media Design and Production (96)
   
 Skills
 ======
