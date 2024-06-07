@@ -1,5 +1,5 @@
 ---
-title: "Large-Scale Distributed Mobile Ad-hoc Network Emulation System"
+title: "Deep Learning Based Human State Assessment System"
 collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
