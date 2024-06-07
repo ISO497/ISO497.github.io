@@ -14,4 +14,5 @@ These course projects were completed in my undergraduate courses, covering vario
 * Chinese Cuisine Website (JavaScript \& CSS \& HTML)
 * FTP Server (C)
 * Electronic Organ (C \& Arduino)
+![Electronic Organ](../assets/projects/electrionic organ.png)
 * Telephone Management System (C)

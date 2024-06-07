@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> <i>{{page.date}}</i> </p>
+          <p> {{page.date}} </p>
         {% elsif page.date == nil or page.date == empty %}
           <p>Under review.</p>
         {% elsif page.venue and page.date %}

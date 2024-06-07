@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> <i>{{post.date}}</i> </p>
+          <p> {{post.date}} </p>
         {% elsif post.date == nil or post.date == empty %}
           <p>Under review.</p>
         {% elsif post.collection == 'publications' %}
