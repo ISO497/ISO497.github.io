@@ -15,4 +15,4 @@ This project was proposed by National Disaster Reduction Center of the Ministry 
 * Surveyed on the deep learning algorithms for detecting damaged road in post-disaster remote sensing images.
 * Implemented and validated the feasibility of damaged road detection algorithm D-LinkNet.
 * Applied CoCosNet on generating simulated post-disaster remote sensing images.
-* Published the paper "Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Images" as the first author.
+* Published the paper ["Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Images"](https://iso497.github.io/publication/Damaged_Road) as the first author.

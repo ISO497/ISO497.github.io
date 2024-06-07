@@ -1,7 +1,7 @@
 ---
 title: "Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Damaged_Road
 date: 11-16 July 2021
 venue: '2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS'
 slidesurl: '../assets/publications/presentation video.pdf'
