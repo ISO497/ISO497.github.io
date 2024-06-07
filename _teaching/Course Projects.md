@@ -12,9 +12,9 @@ These course projects were completed in my undergraduate courses, covering vario
 
 * Fitness Builder Program (Java & JavaFX)
 * Chinese Cuisine Website (JavaScript & CSS & HTML)
-![Chinese Cuisine Website]("Chinese Cuisine Website.png")
+![Chinese Cuisine Website](Chinese_Cuisine_Website.png)
 * FTP Server (C)
-![FTP Server]("FTP server.png")
+![FTP Server](FTP_server.png)
 * Electronic Organ (C & Arduino)
-![Electronic Organ]("electrionic organ.png")
+![Electronic Organ](electrionic_organ.png)
 * Telephone Management System (C)
