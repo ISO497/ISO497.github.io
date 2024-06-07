@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
+        {% if post.collection == 'projects' %}
           {% if post.end_date == nil or post.end_date == empty %}
             <p> {{ post.start_date | default: "1900-01-01" | start_date: "%m %Y" }}</p>
           {% else %}

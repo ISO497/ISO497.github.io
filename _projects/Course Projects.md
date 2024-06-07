@@ -1,8 +1,8 @@
 ---
 title: "Course Projects"
-collection: teaching
+collection: projects
 # type: "Undergraduate course"
-permalink: /teaching/Course Projects
+permalink: /projects/Course Projects
 # venue: "University 1, Department"
 start_date: 'Sep. 2018'
 end_date: 'Jun. 2022'

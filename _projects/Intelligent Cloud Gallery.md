@@ -1,8 +1,8 @@
 ---
 title: "Intelligent Cloud Gallery"
-collection: teaching
+collection: projects
 # type: "Undergraduate course"
-permalink: /teaching/Intelligent Cloud Gallery
+permalink: /projects/Intelligent Cloud Gallery
 # venue: "University 1, Department"
 start_date: 'Jun. 2020'
 end_date: 'May 2021'

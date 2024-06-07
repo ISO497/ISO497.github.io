@@ -1,8 +1,8 @@
 ---
 title: "Large-Scale Distributed Mobile Ad-hoc Network Emulation System"
-collection: teaching
+collection: projects
 # type: "Undergraduate course"
-permalink: /teaching/Large-Scale Distributed Mobile Ad-hoc Network Emulation System
+permalink: /projects/Large-Scale Distributed Mobile Ad-hoc Network Emulation System
 # venue: "University 1, Department"
 start_date: 'Mar. 2022'
 end_date: 'Present'

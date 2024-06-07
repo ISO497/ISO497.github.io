@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning Based Human State Assessment System"
-collection: teaching
+collection: projects
 # type: "Undergraduate course"
-permalink: /teaching/Deep Learning Based Human State Assessment System
+permalink: /projects/Deep Learning Based Human State Assessment System
 # venue: "University 1, Department"
 start_date: 'Oct. 2021'
 end_date: 'Present'

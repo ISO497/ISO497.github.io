@@ -34,7 +34,7 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        {% if page.collection == 'teaching' %}
+        {% if page.collection == 'projects' %}
           {% if page.end_date == nil or page.end_date == empty %}
             <p> {{ page.start_date | default: "1900-01-01" | start_date: "%m %Y" }} </p>
             
