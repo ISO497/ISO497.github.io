@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+# title: ""
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -56,6 +56,5 @@ Skills
 
 * Linux
   * Docker & LXC
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Kubernetes
   
