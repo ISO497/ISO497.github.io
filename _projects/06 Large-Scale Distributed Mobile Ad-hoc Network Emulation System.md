@@ -5,7 +5,7 @@ collection: projects
 permalink: /projects/Large-Scale Distributed Mobile Ad-hoc Network Emulation System
 # venue: "University 1, Department"
 start_date: 'Mar. 2022'
-end_date: 'Present'
+end_date: 'June 2025'
 location: "Beijing, China"
 ---
 
