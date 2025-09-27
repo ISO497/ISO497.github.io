@@ -5,7 +5,7 @@ collection: projects
 permalink: /projects/Deep Learning Based Human State Assessment System
 # venue: "University 1, Department"
 start_date: 'Oct. 2021'
-end_date: 'Present'
+end_date: 'June 2025'
 location: "Beijing, China"
 ---
 
