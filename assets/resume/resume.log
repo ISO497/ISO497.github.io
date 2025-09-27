@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  20 AUG 2024 22:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.13)  21 APR 2025 22:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,7 +307,9 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitdp@description=\count290
 ) (d:/texlive/2023/texmf-dist/tex/generic/nth/nth.sty
 Package: nth 2002/02/27
-)) (./resume.aux)
+)) (d:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -441,40 +443,40 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 34.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 52.
+(hyperref)                removing `\FA' on input line 32.
 
 [1
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 105.
+(hyperref)                removing `\FA' on input line 61.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 112.
+(hyperref)                removing `\FA' on input line 118.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\FA' on input line 126.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 116.
+(Font)              <10.95> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 116.
+(Font)              <8> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 116.
+(Font)              <6> on input line 131.
 [2] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: A949E1C9389FAC749A027B6C9288C8C6;3429.
+(rerunfilecheck)             Checksum: 49ED960CDAFF6C9DE70709A7FBC44DEC;2911.
  ) 
 Here is how much of TeX's memory you used:
- 13473 strings out of 476683
- 264337 string characters out of 5807575
- 1864012 words of memory out of 5000000
- 33542 multiletter control sequences out of 15000+600000
+ 13520 strings out of 476683
+ 265391 string characters out of 5807575
+ 1863012 words of memory out of 5000000
+ 33585 multiletter control sequences out of 15000+600000
  515610 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,5n,105p,489b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,5n,105p,489b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on resume.pdf (2 pages).

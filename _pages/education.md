@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2022 -- Present
-  * Master student in Information and Communication Engineering, expected Jun. 2025
-  * First-class scholarship for twice
+* University College London (UCL), London, United Kingdom, 2025 -- Present
+  * Ph.D. student in Electronic & Electrical Engineering, expected Jun. 2029
+* Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2022 -- 2025
+  * Master student in Information and Communication Engineering
+  * First-class scholarship for triple
+  * Outstanding Graduation Thesis Award (College Level)
 * Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2018 -- 2022
   * B.E. in Telecommunications Engineering with Management
   * Outstanding Graduate
