@@ -3,6 +3,7 @@ title: "Asynchronous Federated Learning via Over-the-Air Computation in LEO Sate
 collection: publications
 permalink: /publication/Asynchronous_FL
 # excerpt: 'This paper has been submitted to the IEEE Transactions on Wireless Communications and is presently undergoing peer review.'
+venue: 'IEEE Transactions on Wireless Communications'
 date: 6 November 2024
 paperurl: '../assets/publications/AsynchronousFederatedLearningviaOver-the-AirComputationinLEOSatelliteNetworks.pdf'
 # venue: 'GitHub Journal of Bugs'
