@@ -2,7 +2,7 @@
 title: "AirComp-Assisted Asynchronous Federated Learning for UAV Swarms: A Self-Adaptive Aggregation Scheme to Tackle Model Staleness"
 collection: publications
 permalink: /publication/Model_staleness
-excerpt: 'This paper has been submitted to the IEEE Transactions on Wireless Communications and is presently undergoing peer review.'
+# excerpt: 'This paper has been submitted to the IEEE Transactions on Wireless Communications and is presently undergoing peer review.'
 venue: 'IEEE Transactions on Wireless Communications'
 # date: 6 November 2024
 paperurl: '../assets/publications/AirComp-Assisted.pdf'
