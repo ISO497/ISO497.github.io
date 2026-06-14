@@ -4,85 +4,97 @@
 %\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
 %\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
 \usepackage{setspace}
+\geometry{a4paper,left=1.3cm,right=1.3cm,top=1cm,bottom=1cm}
 \begin{document}
 \pagenumbering{gobble} % suppress displaying page number
 \onehalfspacing
 \name{Yansong Huang}
 
 \basicInfo{
-  \email{873994556@bupt.edu.cn} \textperiodcentered\ 
+  \email{yansong.huang.25@ucl.ac.uk} \textperiodcentered\ 
   \phone{(+86) 180-175-85587} \textperiodcentered\ 
   \homepage[https://iso497.github.io/]{https://iso497.github.io/}}
 
 \section{\faGraduationCap\ Education}
+\datedsubsection{\normalsize{\textbf{University College London (UCL), London, United Kingdom}}}{\textit{Oct. 2025 -- Present}}
+\textbf{Interests: }\textit{Fluid Antenna Systems, Deep Learning.}
+\vspace{-0.2cm}
 \datedsubsection{\normalsize{\textbf{Beijing University of Posts and Telecommunications (BUPT), Beijing, China}}}{\textit{Sept. 2022 -- Jun. 2025}}
-\textit{\textbf{M.E.} in Information and Communication Engineering | GPA (present): 91.65/100} \newline
-\textbf{Interests: }\textit{Federated Learning, Over-the-Air Computation, Communication Emulation, and Computer Vision.} \newline
-\textbf{Courses: }\textit{Machine Learning (95), Graph Theory and Applications (91), Communication Network Theory (90).}
-
+\textit{\textbf{M.E.} in Information and Communication Engineering | GPA (present): 91.65/100} 
+% \textbf{Interests: }\textit{Federated Learning, Over-the-Air Computation, Communication Emulation, and Computer Vision.} \newline
+% \textbf{Courses: }\textit{Machine Learning (95), Graph Theory and Applications (91), Communication Network Theory (90).}
+\vspace{-0.2cm}
 \datedsubsection{\normalsize{\textbf{Beijing University of Posts and Telecommunications (BUPT), Beijing, China}}}{\textit{Sept. 2018 -- Jun. 2022}}
-\textit{\textbf{B.E.} in Telecommunications Engineering with Management | GPA: 86.94/100}\newline
-\textbf{Courses:} \textit{Principles of Communications (93), Internet Protocols (92), Electric and Magnetic Fields (93).}
-
+\textit{\textbf{B.E.} in Telecommunications Engineering with Management | GPA: 86.94/100}
+% \textbf{Courses:} \textit{Principles of Communications (93), Internet Protocols (92), Electric and Magnetic Fields (93).}
+\vspace{-0.2cm}
 \datedsubsection{\normalsize{\textbf{Queen Mary University of London (QMUL), Beijing, China}}}{\textit{Sept. 2018 -- Jun. 2022}}
-\textbf{Joint Programme with BUPT} \newline
+% \textbf{Joint Programme with BUPT} \newline
 \textit{\textbf{BSc} in Telecommunications Engineering with Management | GPA: 381/510 (Honors, First Class)} \newline
-\textbf{Courses:} \textit{Advanced Transform Methods (93), Interactive Media Design (96), Computer Vision (94).}
-
+% \textbf{Courses:} \textit{Advanced Transform Methods (93), Interactive Media Design (96), Computer Vision (94).}
+\vspace{-0.6cm}
 \section{\faBook\ Publications}
 \textbf{PAPERS} \newline
-\textbf{Y. Huang}, X. Li, M. Zhao, M. Peng, ``Asynchronous Federated Learning via Over-the-Air Computation in LEO Satellite Networks," \textit{IEEE Transactions on Wireless Communications}, Accepted.
+\textbf{Y. Huang}, X. Li, M. Zhao, H. Li and M. Peng, ``Asynchronous Federated Learning via Over-the-Air Computation in LEO Satellite Networks,'' \textit{IEEE Trans. Wireless Commun.}, vol. 23, no. 12, pp. 19885--19901, Dec. 2024. 
 \begin{itemize}
   \item This paper proposed an asynchronous federated learning (FL) framework in low-earth orbit (LEO) satellite networks by exploiting multiple high-altitude platforms (HAPs) for model aggregation
   \item Over-the-air computation (AirComp) is utilized in the FL framework for reducing energy consumption.
   \item To find the optimal aggregation scheme and beamforming vector, this paper proposed a  linkage search algorithm combining depth-first search (DFS) and breadth-first search (BFS) algorithm with subtree pruning.
 \end{itemize}
-\vspace{0.5cm}
-\textbf{Y. Huang}, X. Li, M. Zhao, M. Peng, ``A Self-Adaptive Aggregation Scheme for Tackling the Model Staleness Problem in AirComp-Assisted AFL in UAV Swarms," \textit{IEEE Transactions on Wireless Communications}, Submitted.
+% \vspace{0.5cm}
+\textbf{Y. Huang}, X. Li, L. Zhang and M. Peng, ``AirComp-Assisted Asynchronous Federated Learning for UAV Swarms: A Self-Adaptive Aggregation Scheme to Tackle Model Staleness,'' \textit{IEEE Trans. Wireless Commun.}, Early Access. 
 \begin{itemize}
   \item This paper proposed an asynchronous federated learning (AFL) framework in unmanned aerial vehicle (UAV) swarm networks with AirComp to improve communication efficiency.
   \item An alternating optimization algorithm is proposed to get the optimal solution of beamforming vectors.
   \item Cosine-similarity-based model aggregation scheme is proosed to relieve model staleness in AFL.
 \end{itemize}
-\vspace{0.5cm}
-\textbf{Y. Huang}, H. Wei, J. Yang, M. Wu, ``Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Images," \textit{2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, Brussels, Belgium, 2021, pp. 4684-4687.
+% \vspace{0.5cm}
+\textbf{Y. Huang}, K. K. Wong, ``Fluid Antenna Assisted Over-the-Air Computation for Federated Learning Systems,'' \textit{IEEE Trans. Wireless Commun.}, Submitted. 
+\begin{itemize}
+  \item This paper proposed an AirComp-assisted AFL framework for air-ground integrated networks, enabling UAVs and terrestrial vehicles to collaboratively train deep learning models with reduced aggregation delay.
+
+  \item Dual-sided FAS is introduced to dynamically reconfigure antenna positions at both UAVs and vehicles, thereby improving wireless channel conditions and AirComp aggregation reliability.
+
+  \item A joint optimization problem of aggregation scheduling, receive beamforming, and antenna positioning is formulated, with an iterative optimization algorithm developed as the benchmark solution, and a Transformer- and deep-unfolding-based optimization method is proposed to reduce computational complexity.
+\end{itemize}
+% \vspace{0.5cm}
+\textbf{Y. Huang}, H. Wei, J. Yang, M. Wu, ``Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Images,'' \textit{2021 IEEE Int. Geosci. Remote Sens. Symp. IGARSS}, Brussels, Belgium, 2021, pp. 4684--4687.
 \begin{itemize}
   \item This paper applied CoCosNet on translating pre-disaster images to simulated post-disaster images of the same area, enlarging the dataset for related deep learning tasks. 
   \item The work was varified effective by the high accuracy of applying D-LinkNet trained with real post-disaster images on detecting damaged roads in simulated post-disaster images. 
 \end{itemize}
 
 \textbf{PATENTS} \newline
-X. Li, \textbf{Y. Huang}, M. Zhao, ``A Method, Device, System, and Virtual Node for Constructing a Digital Twin Network," Beijing: CN116318397A, Jun. 23, 2023. \newline
-X. Li, \textbf{Y. Huang}, M. Zhao, ``A User-Centric Federated Learning Method and Device Based on Visible Light Communication," Beijing: CN115942499B, Jun. 2, 2023. \newline
-X. Li, M. Zhao, \textbf{Y. Huang}, ``A Multi-User Scheduling Method and Scheduling Device Based on Visible Light Communication,” Beijing: CN117978667B, Aug. 6, 2024. 
-
-
+X. Li, \textbf{Y. Huang}, M. Zhao, ``A Method, Device, System, and Virtual Node for Constructing a Digital Twin Network,`` Beijing: CN116318397A, Jun. 23, 2023. \newline
+X. Li, \textbf{Y. Huang}, M. Zhao, ``A User-Centric Federated Learning Method and Device Based on Visible Light Communication,`` Beijing: CN115942499B, Jun. 2, 2023. \newline
+X. Li, M. Zhao, \textbf{Y. Huang}, ``A Multi-User Scheduling Method and Scheduling Device Based on Visible Light Communication,`` Beijing: CN117978667B, Aug. 6, 2024. \newline
+X. Li, B. Zhang, \textbf{Y. Huang}, ``A Method for Establishing a High-G Overload Incapacitation Detection Model, Detection Method, and Apparatus,`` Beijing: CN121093065A, Dec. 9, 2025. \newline
+X. Li, Y. Zhang, L. Zhang, \textbf{Y. Huang}, ``A Containerized and Isolated Multi-Device Management System and Device,`` Beijing: 	CN120762810A, Oct. 10, 2025.
 
 \section{\faTasks\ Projects}
 
-\datedsubsection{\normalsize{\textbf{Large-Scale Distributed Mobile Ad-hoc Network Emulation System}}}{\textit{Mar. 2022 -- Present}}
+\datedsubsection{\normalsize{\textbf{Large-Scale Distributed Mobile Ad-hoc Network Emulation System}}}{\textit{Mar. 2022 -- Jun. 2025}}
 This project constructed a communication \textbf{emulation} system deployed in a \textbf{distributed} framework and managed by Kubernetes. The system utilized Docker to create containers as independent nodes and emulated the effect of physical layer and data link layer through its highly flexible model plugin. 
 \begin{itemize}
   \item Modified the system to emulate swarm communication with real data.
   \item Construct the distributed deployment pattern of the system through shell script and Kubernetes.
-  \item Design the GUI of the system and connect it to the system.
+  % \item Design the GUI of the system and connect it to the system.
   % \item Emulated Link 16 data link and calculated the BER-SINR curve as the judge of accepting a signal or not. 
   % \item Emulated the communication of UAV swarm in various scenarios.
   % \item Deployed data compression and depression algorithm to realize efficient data transmission.
 \end{itemize}
-
-\datedsubsection{\normalsize{\textbf{Deep Learning Based Human State Assessment System}}}{\textit{Oct. 2021 -- Present}}
+\datedsubsection{\normalsize{\textbf{Deep Learning Based Human State Assessment System}}}{\textit{Oct. 2021 -- Jun. 2025}}
 This project construct a \textbf{non-contact human state assessment} system to monitor the realtime state of drivers and alert when abnormal state is predicted through videos captured by only one or two cameras. This system including target detection, keypoint detection, head pose estimation and time series prediction algorithms.
 \begin{itemize}
   \item Designed the framework of the human state assessment system.
   \item Surveyed and implemented related deep learning algorithms and the hardware of the system.
-  \item Designed the tree-based ensemble learning algorithm to predict human state.
+  % \item Designed the tree-based ensemble learning algorithm to predict human state.
 \end{itemize}
 
 \datedsubsection{\normalsize{\textbf{High-Resolution Road Disaster Monitoring and Assessment System}}}{\textit{Aug. 2020 -- Jun. 2021}}
 This project aimed to construct an \textbf{artificial intelligent} assisted system to monitor geological disasters and \textbf{assess road damage} through remote sensing images taken by satellites. 
 \begin{itemize}
-  \item Processed remote sensing images with ArcGIS API for Python.
+  % \item Processed remote sensing images with ArcGIS API for Python.
   % \item Surveyed on deep learning algorithms for detecting damaged road in post-disaster remote sensing images.
   \item Implemented and validated the feasibility of damaged road detection algorithm D-LinkNet.
   \item Applied CoCosNet on generating simulated post-disaster remote sensing images.
@@ -117,18 +129,18 @@ This project aimed to construct an \textbf{artificial intelligent} assisted syst
 
 \section{\faCogs\ Skills}
 \begin{itemize}[parsep=0.5ex]
-  \item \textbf{Languages:} English (IELTS: 7, GRE: 149+170), Chinese (Native)
+  \item \textbf{Languages:} English (IELTS: 7, GRE: 149+170), Madarin (Native)
   \item \textbf{Programming Languages:} Python > Java > Matlab > C > C++ > HTML + CSS + JavaScript
   % \item \textbf{Platform:} Linux
-  \item \textbf{Tools:} LXC, Docker, Kubernetes
+  % \item \textbf{Tools:} LXC, Docker, Kubernetes
 \end{itemize}
 
 \section{\faHeartO\ Honors and Awards}
-\datedline{\textit{First-Class Scholarship}, Twice}{\textit{Oct. 2022 - Oct. 2023}}
-\datedline{\textit{Outstanding Graduate}, Award on Undergraduate Graduation Ceremony}{\textit{Jun. 2022}}
-\datedline{\textit{QM Prize}, Award on Undergraduate Graduation Ceremony}{\textit{Jun. 2022}}
-\datedline{\textit{Third-Class Scholarship}, Twice}{\textit{Oct. 2019 - Oct. 2021}}
-\datedline{\textit{\nth{3} Prize}, Award on College Students Innovation and Entrepreneurship Forum}{\textit{Jun. 2021}}
+\datedline{\textit{Outstanding Master Thesis}, Awarded by BUPT}{\textit{Jun. 2025}}
+\datedline{\textit{First-Class Scholarship}, Triple}{\textit{Oct. 2022 - Oct. 2024}}
+\datedline{\textit{Outstanding Graduate}, Awarded by BUPT and QMUL}{\textit{Jun. 2022}}
+% \datedline{\textit{Third-Class Scholarship}, Twice}{\textit{Oct. 2019 - Oct. 2021}}
+% \datedline{\textit{\nth{3} Prize}, Award on College Students Innovation and Entrepreneurship Forum}{\textit{Jun. 2021}}
 \datedline{\textit{Meritorious Winner}, Award on 2021 Interdisciplinary Contest In Modeling}{\textit{Apr. 2021}}
 
 \end{document}

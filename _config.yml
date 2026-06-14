@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yansong Huang's Personal Homepage"
+title                    : "Yansong's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yansong Huang"
 description              : &description "personal description"

@@ -17,6 +17,6 @@ I am very fortune to be advised by [Prof. Xuan Li](https://teacher.bupt.edu.cn/l
 
 I'm currently preparing to apply for a PhD position for the 2025 academic year. If you are interested in my profile, please feel free to contact me. -->
 
-You can find my CV here: [Yansong Huang's Curriculum Vitae](../assets/resume/resume.pdf).
+You can find my CV here: [Yansong's Curriculum Vitae](../assets/resume/resume.pdf).
 
 [Email](mailto: yansong.huang.25@ucl.ac.uk) / [Github](https://github.com/ISO497) / [Wechat](../images/Wechat.png)
